@@ -1,0 +1,19 @@
+.empty{
+  height: 440upx;
+  padding: 80upx 20upx;
+  width: 100vw;
+  box-sizing: border-box;
+ }
+ .empty image{
+  display: block;
+  width: 320upx;
+  height: 380upx;
+  margin: 40upx auto;
+ }
+ .empty text{
+   display: block;
+   width: 100%;
+   text-align: center;
+   font-size: 26upx;
+   color: #666;
+ }
